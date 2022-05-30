@@ -1,0 +1,35 @@
+{
+    "user": {
+        "profile_completion": {
+            "steps_total": 5,
+            "steps_completed": 2,
+            "steps" : [
+                {
+                    "title": "Compléter vos infos",
+                    "subtitle": "Votre âge, nationalité, ...",
+                    "completed":false
+                },
+                {
+                    "title": "Ajouter une vidéo de vous",
+                    "subtitle": "Vidéo de votre dernier match, ou ...",
+                    "completed":false
+                },
+                {
+                    "title": "Ajouter votre position",
+                    "subtitle": "Gardien, attaquant, ...",
+                    "completed":false
+                },
+                {
+                    "title": "Renseigner vos expériences",
+                    "subtitle": "Votre CV sportif",
+                    "completed":false
+                },
+                {
+                    "title": "Ajouter une photo de profil",
+                    "subtitle": "Mettez toutes les chances de ...",
+                    "completed":false
+                }
+            ]
+        }
+    }
+}
