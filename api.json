@@ -22,12 +22,12 @@
                 {
                     "title": "Renseigner vos expériences",
                     "subtitle": "Votre CV sportif",
-                    "completed":false
+                    "completed":true
                 },
                 {
                     "title": "Ajouter une photo de profil",
                     "subtitle": "Mettez toutes les chances de ...",
-                    "completed":false
+                    "completed":true
                 }
             ]
         }
