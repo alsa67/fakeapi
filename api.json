@@ -7,27 +7,32 @@
                 {
                     "title": "Compléter vos infos",
                     "subtitle": "Votre âge, nationalité, ...",
-                    "completed":false
+                    "completed":false,
+                    "icon_type":"icon_profile"
                 },
                 {
                     "title": "Ajouter une vidéo de vous",
                     "subtitle": "Vidéo de votre dernier match, ou ...",
-                    "completed":false
+                    "completed":false,
+                    "icon_type": "icon_play"
                 },
                 {
                     "title": "Ajouter votre position",
                     "subtitle": "Gardien, attaquant, ...",
-                    "completed":false
+                    "completed":false,
+                    "icon_type":"icon_venue"
                 },
                 {
                     "title": "Renseigner vos expériences",
                     "subtitle": "Votre CV sportif",
-                    "completed":true
+                    "completed":true,
+                    "icon_type": "icon_rows"
                 },
                 {
                     "title": "Ajouter une photo de profil",
                     "subtitle": "Mettez toutes les chances de ...",
-                    "completed":true
+                    "completed":true,
+                    "icon_type":"icon_camera"
                 }
             ]
         }
